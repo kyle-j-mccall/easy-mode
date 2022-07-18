@@ -1,0 +1,2 @@
+# easy-mode
+easy-mode
